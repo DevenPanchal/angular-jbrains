@@ -32,7 +32,7 @@ Contains a component called "date" to display a date and time which updates auto
 
 Contains a component called "address-card" to display class member data about an address, telephone number etc (directory services type information). The module uses ng directives like ngFor and ngIf, tag inputs (e.g. page-specified name on the address card), and CSS stying.
 
-![Screenshot](first-project/snips/address-card-collapse.png)
+![Screenshot](first-project/snips/address-card-collapse.PNG)
 
 Contains a demonstration of how to use two-way data binding with ngModule to change the contents of a simple data field.
 
@@ -44,7 +44,7 @@ Contains an example "injectable" angular service for printing to the developer w
 
 Contains an example for sending REST API calls using HttpClient to the GitHub API. The results are displayed within an angular component.
 
-![Screenshot](first-project/snips/github-request-component.png)
+![Screenshot](first-project/snips/github-request-component.PNG)
 
 
 ## routing
