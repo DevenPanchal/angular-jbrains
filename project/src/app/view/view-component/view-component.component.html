@@ -1,0 +1,13 @@
+<h1>GitHub API request Demo component</h1>
+<h3>
+  User Name: <input type="text" [(ngModel)]="userName">
+</h3>
+
+<button (click)="search()">Request</button>
+
+<div *ngIf="response">
+  <h3>Git User:</h3>
+  <p class="login"> Login: {{response.login}} </p>
+  <p class="numRepos"> Number of repos: {{response.public_repos}} </p>
+  <p class="followers"> Number of Followers: {{response.followers}} </p>
+</div>

@@ -1,0 +1,17 @@
+.view-component.component {
+    border: 1px gray solid;
+    padding: 15 px
+}
+
+.login {
+    font-family:  "Verdana", sans-serif;
+}
+
+.numRepos {
+    font-family:  "Verdana", sans-serif;
+}
+
+.followers
+{
+    font-size: 21 px;
+}
