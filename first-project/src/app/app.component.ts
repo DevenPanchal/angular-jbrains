@@ -9,9 +9,10 @@ import { User } from './address-card/user.model';
 })
 
 export class AppComponent {
-   
+  
+  inputText : string = "Input Text";
+
   bennett : User;
-  isCollapsed : boolean = true;
   
   //TODO we should not be defining data here
   constructor () {
