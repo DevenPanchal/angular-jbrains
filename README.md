@@ -1,5 +1,8 @@
+* Adding to the great work done by Matthew B (twinbee)
+
 # tryAngular
 Working through the JavaBrains.io Angular 6 Basics course found here: [http://javabrains.io]
+
 
 ## Prerequisites
 
